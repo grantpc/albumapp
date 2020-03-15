@@ -13,7 +13,7 @@ import {
   Toolbar,
   Typography
 } from "@material-ui/core";
-import { Link, Route } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { auth } from "./firebase";
 
 export function SignIn(props) {
